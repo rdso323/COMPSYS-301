@@ -1,0 +1,228 @@
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/CortexM3/ARM_GCC_493/Debug/PWM_1.o : //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CyFlash.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CyLib.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CySpc.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/PWM_1.c //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/PWM_1.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cyPm.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cydevice.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cydevice_trm.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cyfitter.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CyLib.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CySpc.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/PWM_1.c : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/PWM_1.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/CortexM3/ARM_GCC_493/Debug/PWM_1_PM.o : //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CyFlash.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CyLib.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CySpc.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/PWM_1.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/PWM_1_PM.c //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cyPm.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cydevice.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cydevice_trm.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cyfitter.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/PWM_1_PM.c : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/CortexM3/ARM_GCC_493/Debug/isr_eoc.o : //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A0.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A0_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A1.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A1_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A2.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A2_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A3.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A3_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A4.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A4_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A5.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A5_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A6.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A6_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A7.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A7_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/ADC.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/ADC_FinalBuf_dma.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/ADC_IRQ.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/ADC_IntClock.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/ADC_SAR.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/ADC_TempBuf_dma.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CONTROL.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CYDMAC.H //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CYFITTER.H //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/Clock2.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/Clock_PWM.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/Clock_QENC.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CyDmac.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CyFlash.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CyLib.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CySpc.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/DB0.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/DB0_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/DB1.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/DB1_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/DB2.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/DB2_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/LED.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/LED_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_D1.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_D1_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_D2.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_D2_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_EN.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_EN_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_IN1.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_IN1_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_IN2.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_IN2_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_QA.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_QA_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_QB.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_QB_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_D1.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_D1_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_D2.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_D2_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_EN.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_EN_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_IN1.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_IN1_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_IN2.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_IN2_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_QA.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_QA_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_QB.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_QB_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/PWM_1.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/PWM_2.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/QuadDec_M1.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/QuadDec_M1_Cnt16.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/QuadDec_M2.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/QuadDec_M2_Cnt16.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/RF_BT_SELECT.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/Timer_TS.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/UART.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/UART_IntClock.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_Dm.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_Dm_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_Dp.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_Dp_aliases.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_audio.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_cdc.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_cydmac.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_hid.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_midi.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_msc.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_pvt.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cmsis_armcc.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cmsis_gcc.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/core_cm3.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/core_cmFunc.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/core_cmInstr.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cyPm.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cydevice.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cydevice_trm.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cydisabledsheets.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cyfitter.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cypins.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cytypes.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/isrRF_RX.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/isrRF_TX.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/isr_TS.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/isr_eoc.c //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/isr_eoc.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/project.h //uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/defines.h 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A0.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A0_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A1.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A1_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A2.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A2_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A3.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A3_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A4.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A4_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A5.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A5_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A6.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A6_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A7.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/A7_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/ADC.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/ADC_FinalBuf_dma.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/ADC_IRQ.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/ADC_IntClock.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/ADC_SAR.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/ADC_TempBuf_dma.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CONTROL.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/CYDMAC.H : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/Clock2.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/Clock_PWM.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/Clock_QENC.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/DB0.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/DB0_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/DB1.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/DB1_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/DB2.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/DB2_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/LED.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/LED_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_D1.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_D1_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_D2.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_D2_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_EN.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_EN_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_IN1.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_IN1_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_IN2.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_IN2_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_QA.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_QA_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_QB.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M1_QB_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_D1.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_D1_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_D2.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_D2_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_EN.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_EN_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_IN1.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_IN1_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_IN2.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_IN2_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_QA.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_QA_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_QB.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/M2_QB_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/PWM_2.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/QuadDec_M1.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/QuadDec_M1_Cnt16.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/QuadDec_M2.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/QuadDec_M2_Cnt16.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/RF_BT_SELECT.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/Timer_TS.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/UART.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/UART_IntClock.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_Dm.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_Dm_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_Dp.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_Dp_aliases.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_audio.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_cdc.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_cydmac.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_hid.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_midi.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_msc.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/USBUART_pvt.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cmsis_gcc.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/core_cm3.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/core_cmFunc.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/core_cmInstr.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/cypins.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/isrRF_RX.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/isrRF_TX.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/isr_TS.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/isr_eoc.c : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/isr_eoc.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/Generated_Source/PSoC5/project.h : 
+
+//uoa.auckland.ac.nz/engdfs/home/rdso323/Desktop/psoc\ student\ pack/psoc_code_base/CS301_Class.cydsn/defines.h : 
+
